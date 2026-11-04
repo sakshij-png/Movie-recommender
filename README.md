@@ -5,9 +5,9 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-TF--IDF-F7931E?logo=scikitlearn&logoColor=white)
 ![TMDB](https://img.shields.io/badge/Data-TMDB-01B4E4)
 
-A content-based movie recommender for Hollywood, Bollywood and regional Indian cinema, built with Python, NLP (TF-IDF, cosine similarity) and Streamlit as a final-year B.Tech (AI & Data Science) project.
+A content-based movie recommender for Hollywood, Bollywood and regional Indian cinema, built with Python, NLP (TF-IDF, cosine similarity) and Streamlit.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:** (https://movie-recommender-wnycfuk3zttqtxnrmui7ir.streamlit.app/)
 
 ![Home](screenshots/home.png)
 
@@ -75,7 +75,7 @@ streamlit run app.py
 
 ## Author
 
-**Your Name**, final-year B.Tech student in AI & Data Science.
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://www.linkedin.com/in/your-profile)
+**Sakshi Joshi**
+final-year B.Tech student in AI & Data Science.
 
 _Movie data and images from TMDB. Streaming availability by JustWatch. This product uses the TMDB API but is not endorsed or certified by TMDB._
